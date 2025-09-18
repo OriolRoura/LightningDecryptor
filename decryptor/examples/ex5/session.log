@@ -1,0 +1,6 @@
+2025-09-03 10:53:15.944 [INF] BRNT: Handshake complete - Session keys derived for initiator:
+2025-09-09 16:22:28.476 [INF] BRNT:     Chaining key: d5e60012aa0f28badfdc2e921e0940f01a1d271dcdff81089055022cfa56799e
+2025-09-09 16:22:28.477 [INF] BRNT:     Send cipher key: 45e7d2d6ac6fe0edad776cda7c43ca1351c18bc941ed6b5e52f0f7aec1cebcb7
+2025-09-09 16:22:28.477 [INF] BRNT:     Recv cipher key: 36372a90bc3cefee33c61e47f371966c96b95c9bf1a1232b34ad22fd58a401de
+2025-09-09 16:22:28.477 [INF] BRNT:     Send cipher salt: d5e60012aa0f28badfdc2e921e0940f01a1d271dcdff81089055022cfa56799e
+2025-09-09 16:22:28.478 [INF] BRNT:     Recv cipher salt: d5e60012aa0f28badfdc2e921e0940f01a1d271dcdff81089055022cfa56799e

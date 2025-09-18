@@ -1,0 +1,979 @@
+🔑 Parsing session keys...
+✅ Session parsed successfully! Role: initiator
+🔑 Session initialized: initiator
+🎯 Initializing smart nonce prediction...
+🎯 Smart nonce prediction enabled: 14 events parsed
+🔍 Processing Wireshark JSON: json6.json
+🧠 SMART PREDICTION MODE: Using nonce interpolation with ±10 margin
+📥 Loaded 583 raw packets
+🔄 Processing 583 raw packets...
+✅ After deduplication: 158 unique packets
+⚡ Lightning candidates: 93 packets
+🚫 Non-Lightning packets: 65 (skipped)
+🔍 Performing cryptographic validation on 93 candidates...
+   🔐 Testing packet 1/93 (Frame 25, 74 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 2/93 (Frame 29, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 3/93 (Frame 31, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 4/93 (Frame 63, 782 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 5/93 (Frame 67, 78 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 6/93 (Frame 71, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 7/93 (Frame 73, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 8/93 (Frame 74, 90 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 9/93 (Frame 76, 77 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 10/93 (Frame 79, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 11/93 (Frame 81, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 12/93 (Frame 82, 601 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 13/93 (Frame 87, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 14/93 (Frame 94, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 15/93 (Frame 111, 58 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 16/93 (Frame 143, 83 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 17/93 (Frame 149, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 18/93 (Frame 150, 394 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 19/93 (Frame 156, 74 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 20/93 (Frame 159, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 21/93 (Frame 161, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 22/93 (Frame 193, 784 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 23/93 (Frame 194, 78 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 24/93 (Frame 198, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 25/93 (Frame 199, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 26/93 (Frame 200, 90 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 27/93 (Frame 201, 77 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 28/93 (Frame 202, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 29/93 (Frame 206, 601 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 30/93 (Frame 207, 80 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 31/93 (Frame 208, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 32/93 (Frame 210, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 33/93 (Frame 232, 58 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 34/93 (Frame 258, 342 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 35/93 (Frame 261, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 36/93 (Frame 263, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 37/93 (Frame 264, 343 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 38/93 (Frame 271, 1086 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 39/93 (Frame 274, 893 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 40/93 (Frame 279, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 41/93 (Frame 283, 496 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 42/93 (Frame 295, 651 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 43/93 (Frame 299, 18 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 44/93 (Frame 301, 1475 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! SEND direction, nonce 19
+   ✅ CONFIRMED Lightning packet (cryptographically validated)
+   🔐 Testing packet 45/93 (Frame 305, 18 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 46/93 (Frame 307, 180 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! SEND direction, nonce 21
+   ✅ CONFIRMED Lightning packet (cryptographically validated)
+   🔐 Testing packet 47/93 (Frame 311, 18 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 48/93 (Frame 313, 115 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! RECV direction, nonce 19
+   ✅ CONFIRMED Lightning packet (cryptographically validated)
+   🔐 Testing packet 49/93 (Frame 317, 18 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 50/93 (Frame 319, 180 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! RECV direction, nonce 21
+   ✅ CONFIRMED Lightning packet (cryptographically validated)
+   🔐 Testing packet 51/93 (Frame 323, 18 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 52/93 (Frame 325, 115 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! SEND direction, nonce 23
+   ✅ CONFIRMED Lightning packet (cryptographically validated)
+   🔐 Testing packet 53/93 (Frame 329, 18 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 54/93 (Frame 331, 90 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! RECV direction, nonce 23
+   ✅ CONFIRMED Lightning packet (cryptographically validated)
+   🔐 Testing packet 55/93 (Frame 335, 18 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 56/93 (Frame 337, 116 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! RECV direction, nonce 25
+   ✅ CONFIRMED Lightning packet (cryptographically validated)
+   🔐 Testing packet 57/93 (Frame 341, 730 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 58/93 (Frame 345, 18 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 59/93 (Frame 347, 115 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! SEND direction, nonce 25
+   ✅ CONFIRMED Lightning packet (cryptographically validated)
+   🔐 Testing packet 60/93 (Frame 351, 18 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 61/93 (Frame 353, 116 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! SEND direction, nonce 27
+   ✅ CONFIRMED Lightning packet (cryptographically validated)
+   🔐 Testing packet 62/93 (Frame 357, 18 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 63/93 (Frame 359, 115 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! RECV direction, nonce 27
+   ✅ CONFIRMED Lightning packet (cryptographically validated)
+   🔐 Testing packet 64/93 (Frame 365, 74 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 65/93 (Frame 366, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 66/93 (Frame 369, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 67/93 (Frame 376, 74 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 68/93 (Frame 377, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 69/93 (Frame 380, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 70/93 (Frame 434, 784 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 71/93 (Frame 440, 782 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 72/93 (Frame 446, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 73/93 (Frame 448, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 74/93 (Frame 449, 90 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 75/93 (Frame 451, 78 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 76/93 (Frame 452, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 77/93 (Frame 455, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 78/93 (Frame 457, 90 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 79/93 (Frame 458, 77 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 80/93 (Frame 459, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 81/93 (Frame 462, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 82/93 (Frame 464, 601 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 83/93 (Frame 467, 77 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 84/93 (Frame 468, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 85/93 (Frame 473, 601 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 86/93 (Frame 474, 80 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 87/93 (Frame 477, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 88/93 (Frame 479, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 89/93 (Frame 485, 80 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 90/93 (Frame 486, 52 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 91/93 (Frame 488, 39 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 92/93 (Frame 519, 58 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+   🔐 Testing packet 93/93 (Frame 527, 58 bytes)...
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   🔑 Testing SWAPPED key assignment...
+   ❓ Cannot decrypt with current keys (could be other node/wrong keys)
+🔍 Cryptographic validation results:
+   ✅ Confirmed Lightning packets: 10
+   ❓ Unconfirmed candidates: 83
+   📊 Decryption success rate: 10.8%
+⚠️  MODERATE: Mixed validation results detected
+   This might indicate multi-node traffic or partial key match
+🔄 HYBRID: Including both confirmed and high-confidence candidates
+✅ Cryptographically validated Lightning packets: 10
+⚠️  Filtered out 83 false positives
+🔍 Analyzing 10 packets for TCP fragmentation...
+   📊 Found 0 packets without stream ID, 1 unique streams
+   🔗 Stream 20: 10 packets
+      🔬 Analyzing 10 packets for fragmentation patterns:
+      📦 Packet 1: Frame 301, size 1475 bytes, hash 6b3d817432023563
+      📦 Packet 2: Frame 307, size 180 bytes, hash b85f95fe74854a5d
+      📦 Packet 3: Frame 313, size 115 bytes, hash 62576135f60a127a
+      📦 Packet 4: Frame 319, size 180 bytes, hash 635fa516aae21c03
+      📦 Packet 5: Frame 325, size 115 bytes, hash 894804e77fa3db58
+      📦 Packet 6: Frame 331, size 90 bytes, hash 203f5de0bce96159
+      📦 Packet 7: Frame 337, size 116 bytes, hash fa6df7231de48a66
+      📦 Packet 8: Frame 347, size 115 bytes, hash 008a543b8f442e8a
+      📦 Packet 9: Frame 353, size 116 bytes, hash 6ca7ec52b2b26f8b
+      📦 Packet 10: Frame 359, size 115 bytes, hash f12b1e1b7b3d1ff8
+      📄 Normal sized packets (180 bytes each)
+      📄 Normal sized packets (115 bytes each)
+      📄 Normal sized packets (90 bytes each)
+      📄 Normal sized packets (116 bytes each)
+      📄 Single large packet (1475 bytes) - likely complete message
+      ✅ No fragmentation patterns detected, keeping all 10 packets
+🎯 Fragment analysis complete: 10 input packets → 10 output packets
+📦 After fragment grouping: 10 packets
+
+🔓 Starting SMART PREDICTION decryption...
+
+📦 Packet 1/10, Frame 301, Size 1475 bytes
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! SEND direction, nonce 19
+✅ SUCCESS! Nonce 19, Direction: SEND
+
+🔓 COMPREHENSIVE MESSAGE ANALYSIS (Frame 301)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 Message length: 1459 bytes
+📄 Raw hex data: 0080ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5000000000000000c00000000000f4240182c341b480dea456899ba15c5d63e8690b0ec03dda90e62c9dedb9931f76760000000f3000268ec78e803e5ef61c752d406de71c0f9fc442da110febfd5d255fd4aa13a691b1c4c6c6c4c322e231f6b766baaca221df351ed59765bbfbac0a4c61092919f4221df1322c7eddb042f21c71c25cb7f5183b628bd34a4dbb8b796b8f81f503a101b618a65fb957c68e98cc2ab41dd767162138a45af6a1a417caaab52009b9b18d11840d0ced45f31bab3b9a7b9a61e29d2f2119e7b2eb9d9eec829027216e3c1ff4586e624d5cfa2c87bd6ecbb28dc6bf6c58cce712006c0381d7cc3083ae2b65145135f5a2da070078e38144d2d082e8789579c1b55605b7e60368a3ea49eac6b8227c05d653de9225132686ddede1f80bcb2f2b9230cc7b7024b945e4939850e406d33b02db130f52302012025b0f0b00fe08e18433b87fe68a9f299b119e8c1a148a9dc55ac018a9e13f2f7232a0c179c110b05aca49b0d1ef299eedc55e9a97c28c0c4930f43d856410bdf5e72bf8217c0edba2341bf6af06a58ebe36ed295aad6b660dbdfa3f6974530684d9ff632656784d52ce61a2b081b627473da4ec963554e124ee323ae75f848bb5b1ba8b1d8d3d36c3271e268164df7fef92a678c1f4e462d0d687f3acb46ad1642a0f86a593a891f8cae5ed99afadda4a6555912809343121d53e7488089d94cae12a5c8fbf1d434d3b0557c25e21adfa6aa69060293cf87754983435aaf882eb52a0c9be1f15988af1f55d605c36c193b610da29b809c2b0c760d135fb01b45bba4e9d34c18d1d59c872f5f6ab9e266ed3ebaa055649d7caa225eac7f6062f51797de2ec9e5cc93232f87c177c1acaeda76f1c34866fff2f6358a6037b742f7ead958f6ecfa40ed15176c6f4822dfd7454dc1c08fdca1ab72051f40ded6c28aaecac5d09918a462d3f7caa664c54d94a73023ce1f09afa8e08c147f6a1e7ec825d379333c763605b717e614d145ee23527be91fcd01d00eed9b085b3fc7bf5e715cd41350c4d4b81daabe16131532ae63f011072a89202b686991348ef02c40a3271b40ce3940e85fdf1ec16e499b3adebe7fbbffb26a74f05b416f7b5257d6c318ba2961230ba8f2bc7afb5bda3da1188e290762cd78e6d19ef8e85822b2caef3cce1a17eacb3d777034427a93fd63fd29294282b61d466209cd913aa6a67c0a5072d520b1a01907807a0aa448497e66f16641a718b3a0fab03188c3c312c196eb2856870f7e669256c793fbc0ee8afb576365a0d44580518d6d7162fa42a1069669b99afb5926f8e3cb2b516e41f4062bd8ef176f4c5ad3d77457f428d680891da98f36dafa48e9d45b18608c03a0af2d224bcfa8ec9a287425d75af26901cf5bfa1a37e207e5848400d41ea525295efee1791c957f1ea56f4d5c94f237f72cd5759587744854021fdeca513200d1e6575fe9c1b839483b68f91cad571945ce07bcfa7bf558db983d7c31ebe15cf87c2fe4ba16c148cdc2e4d49c54e95904282dfd84ff9f0afa841549606b12c1de0eed41f472ab2296b18c35c59d0fe1db7e525a0083cfbdcb364bd54f0d0fe17b91b475121016d26b9d144e60823bb5928c813cab4b28700d255f8a8787ac63d782e30ac95dd0cddc9b7769badea5bd4170485a621639f0898631b59cf2f8d0821160b479fa0f360d90f1aa871dda36ad49fde2e2686c3472df192c3953500eb370fdca1b75ce6f9efdebd2baa821e7df1953e01857420af439a822f3d0123a44bedb2adcd7368c1264a01197e4268fd293bf31fcd7d65195e633234f617938bddda12c8e1e69d33b013534d772b2119c5e2140196fb52905b2905dacf44bdf22e57b0b9c7b4d9f5a91172a8d64b5fa9917239870cc2ae518b16c65fee33c63c25e1f474454ad9533ec1ff8fe0b8909478c873c4db25b6de358571ebac42f1ae7fb531a60cb43d053149b043bce11d35725a2cd5a686db0fe0001a1470100
+📝 Printable ASCII: "X8\\EI4w.g?B@,4HEh>b1g`hxaRqD-UJ:iLllL2.#kvk\"QYv[B!\"/!%Q(4P:ae|hAvqbEjA|R@_1){.)rE${(kq 8|:QE_Z-p8M-.WU`[~`6>k']e=\"Q2hm#K^I9@m3-0# %C;hHU#*U|(CVA^r#AjjXn`E0hM2eg,+btsNcUNN#uH[l2qhM*gNF-h:FBjY:^UYCSHL4U|%iuICZ.*YUl;a+v_EL/_jf>Ud|\"^`b.#/wvHf5`7BX@loH\"EMr@bdM0#j~%y3<v6E#R{[?^q\\P2c* +hi4,@'@9@_nI:jt[Ao{RW)a#z[=)bxX\"<=wp4Bzc))BFb:|Pr zHI~ffA1(V~fVWceEQmqbBiY&+QnA+oLZtW(6H[`-\"K(t%Zi[7%)^yoM\\7,utHTQ2W_9H;hWE{X=|1\\|/HTY(-I`kAr\"5~RZ6KO{ukN`;<K(p%_c]wiApHZb91`y66Ihl4r,9SPpuo!SWB9\":D*6d&1Q3#Oay8,i;54r^!@o)]K\"{{MZ*d#p*le<c^GDT3G<M[mXW/S`CS;W%ZhmG"
+🔤 ASCII view: ...X......8\..EI........4.w..g.?................B@.,4.H..Eh.....>........b....1.g`......h.x....a.R...q...D-......U.J.:i..LllL2.#.kvk.."..Q.Yv[.........B!.."..../!..%..Q..(.4........P:..a.e..|h....A.vqb..E.j.A|..R......@..._1.......)....{.....).r....E..$....{...(.k....q ..8.|..:..QE._Z-.p..8.M-....W..U`[~`6.>...k.'.]e=."Q2hm........#....K.^I9..@m3.-.0.#.. %.......C;..h........H..U.......#*...............U..|(....C.VA..^r......#A.j.jX..n.....`.....E0hM..2eg..,..+..bts.N.cUN.N.#.u.H.[......l2q.h.M...*g..NF-.h.:.F..B..jY:....^......UY...C..S.H...L.......4..U|%.....i.....uI.CZ....*....Y...U...l.;a.....+.v.._..E....L...../_j..f.>..Ud.|."^..`b.........#/..w....v..Hf...5.`7.B...X...@...loH"..EM......r..@...........b....d.M..0#.........j.~.%.y3<v6......E.#R{.........[?..^q\..P.........2.c...*. +hi.4..,@.'.@.9@._...nI.:......jt.[Ao{RW....)a#....z.[.=...).b.x.....X"...<.....=wp4Bz..c.))B...Fb...:..|.Pr. .....z..HI~f.fA......1.......(V..~f.V.......Wce..E.Q.mqb.B...i...Y&...+QnA..+...oLZ..tW.(......6..H..[.`....-"K....(t%.Z.i..[..7.........%)^..y.....oM\..7.,.u..tHT....Q2...W_...9H;h...W.E....{.X..=|1..\.|/....H.....T.Y.(-........I`k.....A.r."...5.....~RZ.....6K.O...{..u....k..N`.;....<.K(p.%_....c.....]....wi....ApHZb.9...1.......`.y..6.......6.I...hl4r..,9SP..p...u.o......!...S..WB..9."...:D..*..6..d....&....1...Q..3#Oay8...,..i.;.54.r...^!@.o.)...]..K.".{..{M.Z..*.d....#.p.*...le..<c.^.GDT..3.......G..<M.[m.XW.../...S.`.C.S...;...W%..Zhm.....G..
+
+⚡ LIGHTNING MESSAGE HEADER
+   Type: 128 (0x0080) - update_add_htlc
+   Category: HTLC
+   Bytes: [00 80]
+
+💸 UPDATE ADD HTLC MESSAGE ANALYSIS
+   Channel ID: ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5
+   HTLC ID: 12
+   Raw amount bytes: 00000000000f4240
+   Raw uint64: 1000000
+   After int64 conversion: 1000000
+   Amount: 1000000 msat (1000.000 sats, 0.00001000 BTC)
+   Payment hash: 182c341b480dea456899ba15c5d63e8690b0ec03dda90e62c9dedb9931f76760
+   CLTV expiry: 243 blocks
+   Onion packet length: 1366 bytes
+   Onion packet (first 32 bytes): 000268ec78e803e5ef61c752d406de71c0f9fc442da110febfd5d255fd4aa13a...
+
+🔍 DETAILED HEX DUMP
+   0000: 00 80 ce 58 b2 a9 f0 f2  a4 c0 38 5c bb e4 45 49  |...X......8\..EI|
+   0010: a5 0c 02 de 03 bd bf fb  34 b5 77 ca 2e 67 90 3f  |........4.w..g.?|
+   0020: 9e a5 00 00 00 00 00 00  00 0c 00 00 00 00 00 0f  |................|
+   0030: 42 40 18 2c 34 1b 48 0d  ea 45 68 99 ba 15 c5 d6  |B@.,4.H..Eh.....|
+   0040: 3e 86 90 b0 ec 03 dd a9  0e 62 c9 de db 99 31 f7  |>........b....1.|
+   0050: 67 60 00 00 00 f3 00 02  68 ec 78 e8 03 e5 ef 61  |g`......h.x....a|
+   0060: c7 52 d4 06 de 71 c0 f9  fc 44 2d a1 10 fe bf d5  |.R...q...D-.....|
+   0070: d2 55 fd 4a a1 3a 69 1b  1c 4c 6c 6c 4c 32 2e 23  |.U.J.:i..LllL2.#|
+   0080: 1f 6b 76 6b aa ca 22 1d  f3 51 ed 59 76 5b bf ba  |.kvk.."..Q.Yv[..|
+   0090: c0 a4 c6 10 92 91 9f 42  21 df 13 22 c7 ed db 04  |.......B!.."....|
+   00a0: 2f 21 c7 1c 25 cb 7f 51  83 b6 28 bd 34 a4 db b8  |/!..%..Q..(.4...|
+   00b0: b7 96 b8 f8 1f 50 3a 10  1b 61 8a 65 fb 95 7c 68  |.....P:..a.e..|h|
+   00c0: e9 8c c2 ab 41 dd 76 71  62 13 8a 45 af 6a 1a 41  |....A.vqb..E.j.A|
+   00d0: 7c aa ab 52 00 9b 9b 18  d1 18 40 d0 ce d4 5f 31  ||..R......@..._1|
+   00e0: ba b3 b9 a7 b9 a6 1e 29  d2 f2 11 9e 7b 2e b9 d9  |.......)....{...|
+   00f0: ee c8 29 02 72 16 e3 c1  ff 45 86 e6 24 d5 cf a2  |..).r....E..$...|
+   0100: c8 7b d6 ec bb 28 dc 6b  f6 c5 8c ce 71 20 06 c0  |.{...(.k....q ..|
+   0110: 38 1d 7c c3 08 3a e2 b6  51 45 13 5f 5a 2d a0 70  |8.|..:..QE._Z-.p|
+   0120: 07 8e 38 14 4d 2d 08 2e  87 89 57 9c 1b 55 60 5b  |..8.M-....W..U`[|
+   0130: 7e 60 36 8a 3e a4 9e ac  6b 82 27 c0 5d 65 3d e9  |~`6.>...k.'.]e=.|
+   0140: 22 51 32 68 6d de de 1f  80 bc b2 f2 b9 23 0c c7  |"Q2hm........#..|
+   0150: b7 02 4b 94 5e 49 39 85  0e 40 6d 33 b0 2d b1 30  |..K.^I9..@m3.-.0|
+   0160: f5 23 02 01 20 25 b0 f0  b0 0f e0 8e 18 43 3b 87  |.#.. %.......C;.|
+   0170: fe 68 a9 f2 99 b1 19 e8  c1 a1 48 a9 dc 55 ac 01  |.h........H..U..|
+   0180: 8a 9e 13 f2 f7 23 2a 0c  17 9c 11 0b 05 ac a4 9b  |.....#*.........|
+   0190: 0d 1e f2 99 ee dc 55 e9  a9 7c 28 c0 c4 93 0f 43  |......U..|(....C|
+   01a0: d8 56 41 0b df 5e 72 bf  82 17 c0 ed ba 23 41 bf  |.VA..^r......#A.|
+   01b0: 6a f0 6a 58 eb e3 6e d2  95 aa d6 b6 60 db df a3  |j.jX..n.....`...|
+   01c0: f6 97 45 30 68 4d 9f f6  32 65 67 84 d5 2c e6 1a  |..E0hM..2eg..,..|
+   01d0: 2b 08 1b 62 74 73 da 4e  c9 63 55 4e 12 4e e3 23  |+..bts.N.cUN.N.#|
+   01e0: ae 75 f8 48 bb 5b 1b a8  b1 d8 d3 d3 6c 32 71 e2  |.u.H.[......l2q.|
+   01f0: 68 16 4d f7 fe f9 2a 67  8c 1f 4e 46 2d 0d 68 7f  |h.M...*g..NF-.h.|
+   0200: 3a cb 46 ad 16 42 a0 f8  6a 59 3a 89 1f 8c ae 5e  |:.F..B..jY:....^|
+   0210: d9 9a fa dd a4 a6 55 59  12 80 93 43 12 1d 53 e7  |......UY...C..S.|
+   0220: 48 80 89 d9 4c ae 12 a5  c8 fb f1 d4 34 d3 b0 55  |H...L.......4..U|
+   0230: 7c 25 e2 1a df a6 aa 69  06 02 93 cf 87 75 49 83  ||%.....i.....uI.|
+   0240: 43 5a af 88 2e b5 2a 0c  9b e1 f1 59 88 af 1f 55  |CZ....*....Y...U|
+   0250: d6 05 c3 6c 19 3b 61 0d  a2 9b 80 9c 2b 0c 76 0d  |...l.;a.....+.v.|
+   0260: 13 5f b0 1b 45 bb a4 e9  d3 4c 18 d1 d5 9c 87 2f  |._..E....L...../|
+   0270: 5f 6a b9 e2 66 ed 3e ba  a0 55 64 9d 7c aa 22 5e  |_j..f.>..Ud.|."^|
+   0280: ac 7f 60 62 f5 17 97 de  2e c9 e5 cc 93 23 2f 87  |..`b.........#/.|
+   0290: c1 77 c1 ac ae da 76 f1  c3 48 66 ff f2 f6 35 8a  |.w....v..Hf...5.|
+   02a0: 60 37 b7 42 f7 ea d9 58  f6 ec fa 40 ed 15 17 6c  |`7.B...X...@...l|
+   02b0: 6f 48 22 df d7 45 4d c1  c0 8f dc a1 ab 72 05 1f  |oH"..EM......r..|
+   02c0: 40 de d6 c2 8a ae ca c5  d0 99 18 a4 62 d3 f7 ca  |@...........b...|
+   02d0: a6 64 c5 4d 94 a7 30 23  ce 1f 09 af a8 e0 8c 14  |.d.M..0#........|
+   02e0: 7f 6a 1e 7e c8 25 d3 79  33 3c 76 36 05 b7 17 e6  |.j.~.%.y3<v6....|
+   02f0: 14 d1 45 ee 23 52 7b e9  1f cd 01 d0 0e ed 9b 08  |..E.#R{.........|
+   0300: 5b 3f c7 bf 5e 71 5c d4  13 50 c4 d4 b8 1d aa be  |[?..^q\..P......|
+   0310: 16 13 15 32 ae 63 f0 11  07 2a 89 20 2b 68 69 91  |...2.c...*. +hi.|
+   0320: 34 8e f0 2c 40 a3 27 1b  40 ce 39 40 e8 5f df 1e  |4..,@.'.@.9@._..|
+   0330: c1 6e 49 9b 3a de be 7f  bb ff b2 6a 74 f0 5b 41  |.nI.:......jt.[A|
+   0340: 6f 7b 52 57 d6 c3 18 ba  29 61 23 0b a8 f2 bc 7a  |o{RW....)a#....z|
+   0350: fb 5b da 3d a1 18 8e 29  07 62 cd 78 e6 d1 9e f8  |.[.=...).b.x....|
+   0360: e8 58 22 b2 ca ef 3c ce  1a 17 ea cb 3d 77 70 34  |.X"...<.....=wp4|
+   0370: 42 7a 93 fd 63 fd 29 29  42 82 b6 1d 46 62 09 cd  |Bz..c.))B...Fb..|
+   0380: 91 3a a6 a6 7c 0a 50 72  d5 20 b1 a0 19 07 80 7a  |.:..|.Pr. .....z|
+   0390: 0a a4 48 49 7e 66 f1 66  41 a7 18 b3 a0 fa b0 31  |..HI~f.fA......1|
+   03a0: 88 c3 c3 12 c1 96 eb 28  56 87 0f 7e 66 92 56 c7  |.......(V..~f.V.|
+   03b0: 93 fb c0 ee 8a fb 57 63  65 a0 d4 45 80 51 8d 6d  |......Wce..E.Q.m|
+   03c0: 71 62 fa 42 a1 06 96 69  b9 9a fb 59 26 f8 e3 cb  |qb.B...i...Y&...|
+   03d0: 2b 51 6e 41 f4 06 2b d8  ef 17 6f 4c 5a d3 d7 74  |+QnA..+...oLZ..t|
+   03e0: 57 f4 28 d6 80 89 1d a9  8f 36 da fa 48 e9 d4 5b  |W.(......6..H..[|
+   03f0: 18 60 8c 03 a0 af 2d 22  4b cf a8 ec 9a 28 74 25  |.`....-"K....(t%|
+   0400: d7 5a f2 69 01 cf 5b fa  1a 37 e2 07 e5 84 84 00  |.Z.i..[..7......|
+   0410: d4 1e a5 25 29 5e fe e1  79 1c 95 7f 1e a5 6f 4d  |...%)^..y.....oM|
+   0420: 5c 94 f2 37 f7 2c d5 75  95 87 74 48 54 02 1f de  |\..7.,.u..tHT...|
+   0430: ca 51 32 00 d1 e6 57 5f  e9 c1 b8 39 48 3b 68 f9  |.Q2...W_...9H;h.|
+   0440: 1c ad 57 19 45 ce 07 bc  fa 7b f5 58 db 98 3d 7c  |..W.E....{.X..=||
+   0450: 31 eb e1 5c f8 7c 2f e4  ba 16 c1 48 cd c2 e4 d4  |1..\.|/....H....|
+   0460: 9c 54 e9 59 04 28 2d fd  84 ff 9f 0a fa 84 15 49  |.T.Y.(-........I|
+   0470: 60 6b 12 c1 de 0e ed 41  f4 72 ab 22 96 b1 8c 35  |`k.....A.r."...5|
+   0480: c5 9d 0f e1 db 7e 52 5a  00 83 cf bd cb 36 4b d5  |.....~RZ.....6K.|
+   0490: 4f 0d 0f e1 7b 91 b4 75  12 10 16 d2 6b 9d 14 4e  |O...{..u....k..N|
+   04a0: 60 82 3b b5 92 8c 81 3c  ab 4b 28 70 0d 25 5f 8a  |`.;....<.K(p.%_.|
+   04b0: 87 87 ac 63 d7 82 e3 0a  c9 5d d0 cd dc 9b 77 69  |...c.....]....wi|
+   04c0: ba de a5 bd 41 70 48 5a  62 16 39 f0 89 86 31 b5  |....ApHZb.9...1.|
+   04d0: 9c f2 f8 d0 82 11 60 b4  79 fa 0f 36 0d 90 f1 aa  |......`.y..6....|
+   04e0: 87 1d da 36 ad 49 fd e2  e2 68 6c 34 72 df 19 2c  |...6.I...hl4r..,|
+   04f0: 39 53 50 0e b3 70 fd ca  1b 75 ce 6f 9e fd eb d2  |9SP..p...u.o....|
+   0500: ba a8 21 e7 df 19 53 e0  18 57 42 0a f4 39 a8 22  |..!...S..WB..9."|
+   0510: f3 d0 12 3a 44 be db 2a  dc d7 36 8c 12 64 a0 11  |...:D..*..6..d..|
+   0520: 97 e4 26 8f d2 93 bf 31  fc d7 d6 51 95 e6 33 23  |..&....1...Q..3#|
+   0530: 4f 61 79 38 bd dd a1 2c  8e 1e 69 d3 3b 01 35 34  |Oay8...,..i.;.54|
+   0540: d7 72 b2 11 9c 5e 21 40  19 6f b5 29 05 b2 90 5d  |.r...^!@.o.)...]|
+   0550: ac f4 4b df 22 e5 7b 0b  9c 7b 4d 9f 5a 91 17 2a  |..K.".{..{M.Z..*|
+   0560: 8d 64 b5 fa 99 17 23 98  70 cc 2a e5 18 b1 6c 65  |.d....#.p.*...le|
+   0570: fe e3 3c 63 c2 5e 1f 47  44 54 ad 95 33 ec 1f f8  |..<c.^.GDT..3...|
+   0580: fe 0b 89 09 47 8c 87 3c  4d b2 5b 6d e3 58 57 1e  |....G..<M.[m.XW.|
+   0590: ba c4 2f 1a e7 fb 53 1a  60 cb 43 d0 53 14 9b 04  |../...S.`.C.S...|
+   05a0: 3b ce 11 d3 57 25 a2 cd  5a 68 6d b0 fe 00 01 a1  |;...W%..Zhm.....|
+   05b0: 47 01 00                                          |G..|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 Packet 2/10, Frame 307, Size 180 bytes
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! SEND direction, nonce 21
+✅ SUCCESS! Nonce 21, Direction: SEND
+
+🔓 COMPREHENSIVE MESSAGE ANALYSIS (Frame 307)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 Message length: 164 bytes
+📄 Raw hex data: 0084ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea51fd8b874af44c5aefdce1d838ab1d0717ac8ed166d9ae7f9ef522b660b8cd84403ea4df97a67bf9fe3eeb655f329dd26891761a9e8af8949d8af893de2eff39000017c2a0f6d30b55eb1ba840d7a1436059b1829388f7770f82aae4700b638ad35e16e79eb47eb5b4dd3f91b00fc07bfeb595d7b787f088242aa8cddc0aa6af59810
+📝 Printable ASCII: "X8\\EI4w.g?tDqzmR+fDMzgU)&aI=|*m0^z6)8wp*G85nyG[MY]{xBj"
+🔤 ASCII view: ...X......8\..EI........4.w..g.?.....t.D.........qz...m....R+f...D..M.zg.....U.).&..a....I...=......|*.m0.^....z.6...)8.wp.*.G..8.5.ny.G.[M........Y]{x...B.....j...
+
+⚡ LIGHTNING MESSAGE HEADER
+   Type: 132 (0x0084) - commitment_signed
+   Category: HTLC
+   Bytes: [00 84]
+
+💼 COMMITMENT SIGNED MESSAGE ANALYSIS
+   Channel ID: ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5
+   Signature: 1fd8b874af44c5aefdce1d838ab1d0717ac8ed166d9ae7f9ef522b660b8cd84403ea4df97a67bf9fe3eeb655f329dd26891761a9e8af8949d8af893de2eff390
+   Number of HTLC signatures: 1
+   ✅ Message length validation passed
+   HTLC signatures:
+     [0]: 7c2a0f6d30b55eb1ba840d7a1436059b1829388f7770f82aae4700b638ad35e16e79eb47eb5b4dd3f91b00fc07bfeb595d7b787f088242aa8cddc0aa6af59810
+
+🔍 DETAILED HEX DUMP
+   0000: 00 84 ce 58 b2 a9 f0 f2  a4 c0 38 5c bb e4 45 49  |...X......8\..EI|
+   0010: a5 0c 02 de 03 bd bf fb  34 b5 77 ca 2e 67 90 3f  |........4.w..g.?|
+   0020: 9e a5 1f d8 b8 74 af 44  c5 ae fd ce 1d 83 8a b1  |.....t.D........|
+   0030: d0 71 7a c8 ed 16 6d 9a  e7 f9 ef 52 2b 66 0b 8c  |.qz...m....R+f..|
+   0040: d8 44 03 ea 4d f9 7a 67  bf 9f e3 ee b6 55 f3 29  |.D..M.zg.....U.)|
+   0050: dd 26 89 17 61 a9 e8 af  89 49 d8 af 89 3d e2 ef  |.&..a....I...=..|
+   0060: f3 90 00 01 7c 2a 0f 6d  30 b5 5e b1 ba 84 0d 7a  |....|*.m0.^....z|
+   0070: 14 36 05 9b 18 29 38 8f  77 70 f8 2a ae 47 00 b6  |.6...)8.wp.*.G..|
+   0080: 38 ad 35 e1 6e 79 eb 47  eb 5b 4d d3 f9 1b 00 fc  |8.5.ny.G.[M.....|
+   0090: 07 bf eb 59 5d 7b 78 7f  08 82 42 aa 8c dd c0 aa  |...Y]{x...B.....|
+   00a0: 6a f5 98 10                                       |j...|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 Packet 3/10, Frame 313, Size 115 bytes
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! RECV direction, nonce 19
+✅ SUCCESS! Nonce 19, Direction: RECV
+
+🔓 COMPREHENSIVE MESSAGE ANALYSIS (Frame 313)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 Message length: 99 bytes
+📄 Raw hex data: 0085ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea531a8a7fca6ad930434fc8a7b2730bf8a6ce8f751b5a428c79a11bbbbf042517702d416662c2f75e4e0fd7df97b22a1e106b42c1f6ab1602e362b30620e326ac58b
+📝 Printable ASCII: "X8\\EI4w.g?14{'0lQ(BQwf,/u}{\",j`.6+0b2j"
+🔤 ASCII view: ...X......8\..EI........4.w..g.?..1.......4..{'0..l..Q..(......BQw...f,/u...}.{"....,.j.`.6+0b.2j..
+
+⚡ LIGHTNING MESSAGE HEADER
+   Type: 133 (0x0085) - revoke_and_ack
+   Category: HTLC
+   Bytes: [00 85]
+
+🔄 REVOKE AND ACK MESSAGE ANALYSIS
+   Channel ID: ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5
+   Per commitment secret: 31a8a7fca6ad930434fc8a7b2730bf8a6ce8f751b5a428c79a11bbbbf0425177
+   Next per commitment point: 02d416662c2f75e4e0fd7df97b22a1e106b42c1f6ab1602e362b30620e326ac58b
+
+🔍 DETAILED HEX DUMP
+   0000: 00 85 ce 58 b2 a9 f0 f2  a4 c0 38 5c bb e4 45 49  |...X......8\..EI|
+   0010: a5 0c 02 de 03 bd bf fb  34 b5 77 ca 2e 67 90 3f  |........4.w..g.?|
+   0020: 9e a5 31 a8 a7 fc a6 ad  93 04 34 fc 8a 7b 27 30  |..1.......4..{'0|
+   0030: bf 8a 6c e8 f7 51 b5 a4  28 c7 9a 11 bb bb f0 42  |..l..Q..(......B|
+   0040: 51 77 02 d4 16 66 2c 2f  75 e4 e0 fd 7d f9 7b 22  |Qw...f,/u...}.{"|
+   0050: a1 e1 06 b4 2c 1f 6a b1  60 2e 36 2b 30 62 0e 32  |....,.j.`.6+0b.2|
+   0060: 6a c5 8b                                          |j..|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 Packet 4/10, Frame 319, Size 180 bytes
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! RECV direction, nonce 21
+✅ SUCCESS! Nonce 21, Direction: RECV
+
+🔓 COMPREHENSIVE MESSAGE ANALYSIS (Frame 319)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 Message length: 164 bytes
+📄 Raw hex data: 0084ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea521f31b2954d2ab81830af47c7c85d6693cb203ad3f6ceebe7bfb059c3bf6b19c2eb08eca19adf569c604928560ab40c76f3646b04b2bc9770edcd2fb8d71b53300015e3b29ff5b0e0436550d58fbb56a22995b80272761eac697e5ab985f8ba7da2d2a50e1e7601db35f8db2b1ba72778cd0655f126c218e71b0d606727f9807e721
+📝 Printable ASCII: "X8\\EI4w.g?!)T||i<?l{;.i`@o6FK+wq3^;)[6UXj\"[''a_-*P`_rwe_l!qr!"
+🔤 ASCII view: ...X......8\..EI........4.w..g.?..!..)T......||..i<...?l..{...;..........i....`.@.o6F.K+.w.....q.3..^;).[..6U.X..j".[.''a......_...-*P..`.._....rw..e_.l!.q...r....!
+
+⚡ LIGHTNING MESSAGE HEADER
+   Type: 132 (0x0084) - commitment_signed
+   Category: HTLC
+   Bytes: [00 84]
+
+💼 COMMITMENT SIGNED MESSAGE ANALYSIS
+   Channel ID: ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5
+   Signature: 21f31b2954d2ab81830af47c7c85d6693cb203ad3f6ceebe7bfb059c3bf6b19c2eb08eca19adf569c604928560ab40c76f3646b04b2bc9770edcd2fb8d71b533
+   Number of HTLC signatures: 1
+   ✅ Message length validation passed
+   HTLC signatures:
+     [0]: 5e3b29ff5b0e0436550d58fbb56a22995b80272761eac697e5ab985f8ba7da2d2a50e1e7601db35f8db2b1ba72778cd0655f126c218e71b0d606727f9807e721
+
+🔍 DETAILED HEX DUMP
+   0000: 00 84 ce 58 b2 a9 f0 f2  a4 c0 38 5c bb e4 45 49  |...X......8\..EI|
+   0010: a5 0c 02 de 03 bd bf fb  34 b5 77 ca 2e 67 90 3f  |........4.w..g.?|
+   0020: 9e a5 21 f3 1b 29 54 d2  ab 81 83 0a f4 7c 7c 85  |..!..)T......||.|
+   0030: d6 69 3c b2 03 ad 3f 6c  ee be 7b fb 05 9c 3b f6  |.i<...?l..{...;.|
+   0040: b1 9c 2e b0 8e ca 19 ad  f5 69 c6 04 92 85 60 ab  |.........i....`.|
+   0050: 40 c7 6f 36 46 b0 4b 2b  c9 77 0e dc d2 fb 8d 71  |@.o6F.K+.w.....q|
+   0060: b5 33 00 01 5e 3b 29 ff  5b 0e 04 36 55 0d 58 fb  |.3..^;).[..6U.X.|
+   0070: b5 6a 22 99 5b 80 27 27  61 ea c6 97 e5 ab 98 5f  |.j".[.''a......_|
+   0080: 8b a7 da 2d 2a 50 e1 e7  60 1d b3 5f 8d b2 b1 ba  |...-*P..`.._....|
+   0090: 72 77 8c d0 65 5f 12 6c  21 8e 71 b0 d6 06 72 7f  |rw..e_.l!.q...r.|
+   00a0: 98 07 e7 21                                       |...!|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 Packet 5/10, Frame 325, Size 115 bytes
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! SEND direction, nonce 23
+✅ SUCCESS! Nonce 23, Direction: SEND
+
+🔓 COMPREHENSIVE MESSAGE ANALYSIS (Frame 325)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 Message length: 99 bytes
+📄 Raw hex data: 0085ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea56bfbcafa2933c079cc8df9c5732c70898f40e0a02b99fa39a07bdb12a4d7e5310357ce24bb72159200f519d28365479a45904ba1de9598ddf7df781319deece807
+📝 Printable ASCII: "X8\\EI4w.g?k)3ys,p@+9{1W$reGEKx"
+🔤 ASCII view: ...X......8\..EI........4.w..g.?..k...)3.y....s,p..@..+..9.{.....1.W.$.r.......eG.E.K.......x......
+
+⚡ LIGHTNING MESSAGE HEADER
+   Type: 133 (0x0085) - revoke_and_ack
+   Category: HTLC
+   Bytes: [00 85]
+
+🔄 REVOKE AND ACK MESSAGE ANALYSIS
+   Channel ID: ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5
+   Per commitment secret: 6bfbcafa2933c079cc8df9c5732c70898f40e0a02b99fa39a07bdb12a4d7e531
+   Next per commitment point: 0357ce24bb72159200f519d28365479a45904ba1de9598ddf7df781319deece807
+
+🔍 DETAILED HEX DUMP
+   0000: 00 85 ce 58 b2 a9 f0 f2  a4 c0 38 5c bb e4 45 49  |...X......8\..EI|
+   0010: a5 0c 02 de 03 bd bf fb  34 b5 77 ca 2e 67 90 3f  |........4.w..g.?|
+   0020: 9e a5 6b fb ca fa 29 33  c0 79 cc 8d f9 c5 73 2c  |..k...)3.y....s,|
+   0030: 70 89 8f 40 e0 a0 2b 99  fa 39 a0 7b db 12 a4 d7  |p..@..+..9.{....|
+   0040: e5 31 03 57 ce 24 bb 72  15 92 00 f5 19 d2 83 65  |.1.W.$.r.......e|
+   0050: 47 9a 45 90 4b a1 de 95  98 dd f7 df 78 13 19 de  |G.E.K.......x...|
+   0060: ec e8 07                                          |...|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 Packet 6/10, Frame 331, Size 90 bytes
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! RECV direction, nonce 23
+✅ SUCCESS! Nonce 23, Direction: RECV
+
+🔓 COMPREHENSIVE MESSAGE ANALYSIS (Frame 331)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 Message length: 74 bytes
+📄 Raw hex data: 0082ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5000000000000000c4cc9413cd28d6c78f0cfb1a86b204b9472977724a4b0e803aef4e7780456cf87
+📝 Printable ASCII: "X8\\EI4w.g?LA<lxk Krw$xV"
+🔤 ASCII view: ...X......8\..EI........4.w..g.?..........L.A<..lx....k K.r.w$.......x.V..
+
+⚡ LIGHTNING MESSAGE HEADER
+   Type: 130 (0x0082) - update_fulfill_htlc
+   Category: HTLC
+   Bytes: [00 82]
+
+✅ UPDATE FULFILL HTLC MESSAGE ANALYSIS
+   Channel ID: ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5
+   HTLC ID: 12
+   Payment preimage: 4cc9413cd28d6c78f0cfb1a86b204b9472977724a4b0e803aef4e7780456cf87
+   Calculated payment hash: 182c341b480dea456899ba15c5d63e8690b0ec03dda90e62c9dedb9931f76760
+
+🔍 DETAILED HEX DUMP
+   0000: 00 82 ce 58 b2 a9 f0 f2  a4 c0 38 5c bb e4 45 49  |...X......8\..EI|
+   0010: a5 0c 02 de 03 bd bf fb  34 b5 77 ca 2e 67 90 3f  |........4.w..g.?|
+   0020: 9e a5 00 00 00 00 00 00  00 0c 4c c9 41 3c d2 8d  |..........L.A<..|
+   0030: 6c 78 f0 cf b1 a8 6b 20  4b 94 72 97 77 24 a4 b0  |lx....k K.r.w$..|
+   0040: e8 03 ae f4 e7 78 04 56  cf 87                    |.....x.V..|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 Packet 7/10, Frame 337, Size 116 bytes
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! RECV direction, nonce 25
+✅ SUCCESS! Nonce 25, Direction: RECV
+
+🔓 COMPREHENSIVE MESSAGE ANALYSIS (Frame 337)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 Message length: 100 bytes
+📄 Raw hex data: 0084ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5826d71a3abb73a61b914f52f902fb0ceb658f472291ad7d2907067f24ad25c65743a0e0e8e20982c15d949e0d4cfc273106d0df8b938a6f29cf1b8ec8735618b0000
+📝 Printable ASCII: "X8\\EI4w.g?mq:a//Xr)pgJ\\et: ,Ism85a"
+🔤 ASCII view: ...X......8\..EI........4.w..g.?...mq...:a..././...X.r)....pg.J.\et:... .,..I....s.m...8.......5a...
+
+⚡ LIGHTNING MESSAGE HEADER
+   Type: 132 (0x0084) - commitment_signed
+   Category: HTLC
+   Bytes: [00 84]
+
+💼 COMMITMENT SIGNED MESSAGE ANALYSIS
+   Channel ID: ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5
+   Signature: 826d71a3abb73a61b914f52f902fb0ceb658f472291ad7d2907067f24ad25c65743a0e0e8e20982c15d949e0d4cfc273106d0df8b938a6f29cf1b8ec8735618b
+   Number of HTLC signatures: 0
+   ✅ Message length validation passed
+
+🔍 DETAILED HEX DUMP
+   0000: 00 84 ce 58 b2 a9 f0 f2  a4 c0 38 5c bb e4 45 49  |...X......8\..EI|
+   0010: a5 0c 02 de 03 bd bf fb  34 b5 77 ca 2e 67 90 3f  |........4.w..g.?|
+   0020: 9e a5 82 6d 71 a3 ab b7  3a 61 b9 14 f5 2f 90 2f  |...mq...:a..././|
+   0030: b0 ce b6 58 f4 72 29 1a  d7 d2 90 70 67 f2 4a d2  |...X.r)....pg.J.|
+   0040: 5c 65 74 3a 0e 0e 8e 20  98 2c 15 d9 49 e0 d4 cf  |\et:... .,..I...|
+   0050: c2 73 10 6d 0d f8 b9 38  a6 f2 9c f1 b8 ec 87 35  |.s.m...8.......5|
+   0060: 61 8b 00 00                                       |a...|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 Packet 8/10, Frame 347, Size 115 bytes
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! SEND direction, nonce 25
+✅ SUCCESS! Nonce 25, Direction: SEND
+
+🔓 COMPREHENSIVE MESSAGE ANALYSIS (Frame 347)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 Message length: 99 bytes
+📄 Raw hex data: 0085ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5412bcc149803a40db370a7004bfe400ddfdf26cb43ebe0a34bef1fc413325a8e0206b99161fe451fc32ec7b9db6e3d5f8b6824acd857c543c41d87a4e814862f45
+📝 Printable ASCII: "X8\\EI4w.g?A+pK@&CK2ZaE.n=_h$WC/E"
+🔤 ASCII view: ...X......8\..EI........4.w..g.?..A+.......p..K.@...&.C...K....2Z.....a.E......n=_.h$..W.C......./E
+
+⚡ LIGHTNING MESSAGE HEADER
+   Type: 133 (0x0085) - revoke_and_ack
+   Category: HTLC
+   Bytes: [00 85]
+
+🔄 REVOKE AND ACK MESSAGE ANALYSIS
+   Channel ID: ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5
+   Per commitment secret: 412bcc149803a40db370a7004bfe400ddfdf26cb43ebe0a34bef1fc413325a8e
+   Next per commitment point: 0206b99161fe451fc32ec7b9db6e3d5f8b6824acd857c543c41d87a4e814862f45
+
+🔍 DETAILED HEX DUMP
+   0000: 00 85 ce 58 b2 a9 f0 f2  a4 c0 38 5c bb e4 45 49  |...X......8\..EI|
+   0010: a5 0c 02 de 03 bd bf fb  34 b5 77 ca 2e 67 90 3f  |........4.w..g.?|
+   0020: 9e a5 41 2b cc 14 98 03  a4 0d b3 70 a7 00 4b fe  |..A+.......p..K.|
+   0030: 40 0d df df 26 cb 43 eb  e0 a3 4b ef 1f c4 13 32  |@...&.C...K....2|
+   0040: 5a 8e 02 06 b9 91 61 fe  45 1f c3 2e c7 b9 db 6e  |Z.....a.E......n|
+   0050: 3d 5f 8b 68 24 ac d8 57  c5 43 c4 1d 87 a4 e8 14  |=_.h$..W.C......|
+   0060: 86 2f 45                                          |./E|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 Packet 9/10, Frame 353, Size 116 bytes
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! SEND direction, nonce 27
+✅ SUCCESS! Nonce 27, Direction: SEND
+
+🔓 COMPREHENSIVE MESSAGE ANALYSIS (Frame 353)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 Message length: 100 bytes
+📄 Raw hex data: 0084ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5fca521334298ab8d80ef5541f1d33f8390548061cf59deb3c314341d6b31828c09e1202b084300a882a17dd9231803e42285af720c841a0daf462980148f857e0000
+📝 Printable ASCII: "X8\\EI4w.g?!3BUA?TaY4k1 +C}#\"rF)~"
+🔤 ASCII view: ...X......8\..EI........4.w..g.?....!3B.....UA..?..T.a.Y....4.k1.... +.C....}.#..."..r.....F)....~..
+
+⚡ LIGHTNING MESSAGE HEADER
+   Type: 132 (0x0084) - commitment_signed
+   Category: HTLC
+   Bytes: [00 84]
+
+💼 COMMITMENT SIGNED MESSAGE ANALYSIS
+   Channel ID: ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5
+   Signature: fca521334298ab8d80ef5541f1d33f8390548061cf59deb3c314341d6b31828c09e1202b084300a882a17dd9231803e42285af720c841a0daf462980148f857e
+   Number of HTLC signatures: 0
+   ✅ Message length validation passed
+
+🔍 DETAILED HEX DUMP
+   0000: 00 84 ce 58 b2 a9 f0 f2  a4 c0 38 5c bb e4 45 49  |...X......8\..EI|
+   0010: a5 0c 02 de 03 bd bf fb  34 b5 77 ca 2e 67 90 3f  |........4.w..g.?|
+   0020: 9e a5 fc a5 21 33 42 98  ab 8d 80 ef 55 41 f1 d3  |....!3B.....UA..|
+   0030: 3f 83 90 54 80 61 cf 59  de b3 c3 14 34 1d 6b 31  |?..T.a.Y....4.k1|
+   0040: 82 8c 09 e1 20 2b 08 43  00 a8 82 a1 7d d9 23 18  |.... +.C....}.#.|
+   0050: 03 e4 22 85 af 72 0c 84  1a 0d af 46 29 80 14 8f  |.."..r.....F)...|
+   0060: 85 7e 00 00                                       |.~..|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 Packet 10/10, Frame 359, Size 115 bytes
+   🔍 BIDIRECTIONAL TEST: Testing both NORMAL and SWAPPED keys for mirrored packets
+   🔑 Testing NORMAL key assignment...
+   ✅ SUCCESS with NORMAL keys! RECV direction, nonce 27
+✅ SUCCESS! Nonce 27, Direction: RECV
+
+🔓 COMPREHENSIVE MESSAGE ANALYSIS (Frame 359)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 Message length: 99 bytes
+📄 Raw hex data: 0085ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5ae2af165c3ad8075b2a955abac9221480db35fe4a68c374308a81b61a73d9b3a02010680d1a79ed0a59b8bf54a3bf4884aa19a5bddd3fd7358452fba6e3105984a
+📝 Printable ASCII: "X8\\EI4w.g?*euU!H_7Ca=:J;J[sXE/n1J"
+🔤 ASCII view: ...X......8\..EI........4.w..g.?...*.e...u..U...!H.._...7C...a.=.:............J;..J..[...sXE/.n1..J
+
+⚡ LIGHTNING MESSAGE HEADER
+   Type: 133 (0x0085) - revoke_and_ack
+   Category: HTLC
+   Bytes: [00 85]
+
+🔄 REVOKE AND ACK MESSAGE ANALYSIS
+   Channel ID: ce58b2a9f0f2a4c0385cbbe44549a50c02de03bdbffb34b577ca2e67903f9ea5
+   Per commitment secret: ae2af165c3ad8075b2a955abac9221480db35fe4a68c374308a81b61a73d9b3a
+   Next per commitment point: 02010680d1a79ed0a59b8bf54a3bf4884aa19a5bddd3fd7358452fba6e3105984a
+
+🔍 DETAILED HEX DUMP
+   0000: 00 85 ce 58 b2 a9 f0 f2  a4 c0 38 5c bb e4 45 49  |...X......8\..EI|
+   0010: a5 0c 02 de 03 bd bf fb  34 b5 77 ca 2e 67 90 3f  |........4.w..g.?|
+   0020: 9e a5 ae 2a f1 65 c3 ad  80 75 b2 a9 55 ab ac 92  |...*.e...u..U...|
+   0030: 21 48 0d b3 5f e4 a6 8c  37 43 08 a8 1b 61 a7 3d  |!H.._...7C...a.=|
+   0040: 9b 3a 02 01 06 80 d1 a7  9e d0 a5 9b 8b f5 4a 3b  |.:............J;|
+   0050: f4 88 4a a1 9a 5b dd d3  fd 73 58 45 2f ba 6e 31  |..J..[...sXE/.n1|
+   0060: 05 98 4a                                          |..J|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 SMART PREDICTION Summary: 10/10 successful decryptions (100.0%)
+
+================================================================================
+📊 LIGHTNING MESSAGE ANALYSIS SUMMARY
+================================================================================
+
+🔍 Processing 10 decrypted messages...
+
+📈 DECRYPTION RESULTS:
+   ✅ Successfully decrypted: 10/10 packets (100.0%)
+   ❌ Failed to decrypt: 0 packets
+
+💡 KEY FINDINGS:
+   🔑 All successfully decrypted packets appear to be Lightning protocol
+   📦 Mix of message types including HTLC operations and channel management
+   💸 Payment flow detected: update_add_htlc → update_fulfill_htlc
+   🔄 Multiple commitment/revocation cycles observed
+
+⚠️  ISSUES IDENTIFIED:
+   🚨 Some 2-byte messages show invalid Lightning message types
+   🔍 These may be incorrectly decrypted fragments or noise
+   📝 Message types like 0x05b3, 0x00a4, 0x0063 are not valid Lightning types
+
+🎯 RECOMMENDATIONS:
+   1. Filter out 2-byte messages with invalid types (likely noise)
+   2. Focus analysis on messages with valid Lightning types (128, 130, 132, 133, etc.)
+   3. Payment flow is correctly identified and working
+   4. Consider expanding nonce range if more packets fail to decrypt
+
+================================================================================

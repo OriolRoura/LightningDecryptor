@@ -1,0 +1,10 @@
+2025-09-15 15:42:27.941 [INF] BRNT: 🔑 HANDSHAKE COMPLETE - Session keys derived for initiator:
+2025-09-15 15:42:27.941 [INF] BRNT:   📋 Session metadata:
+2025-09-15 15:42:27.941 [INF] BRNT:     Role: initiator
+2025-09-15 15:42:27.941 [INF] BRNT:     Initiator: true
+2025-09-15 15:42:27.941 [INF] BRNT:   🔐 Cryptographic material:
+2025-09-15 15:42:27.942 [INF] BRNT:     Chaining key: f5f12f8cbf1bd5413f300e29c5573d864b25816aeaf1f4a2b9e6cb261f3e9bd0
+2025-09-15 15:42:27.942 [INF] BRNT:     Send cipher key: c15a3735b649f873df07647ca64b76174d8f0fbc92e16a8966d5fe68acbcedb0
+2025-09-15 15:42:27.942 [INF] BRNT:     Recv cipher key: 92f0001fe45f500b7f7f85835520685551d3cb034e9d2bc60c07795a68f6ca9d
+2025-09-15 15:42:27.942 [INF] BRNT:     Send cipher salt: f5f12f8cbf1bd5413f300e29c5573d864b25816aeaf1f4a2b9e6cb261f3e9bd0
+2025-09-15 15:42:27.943 [INF] BRNT:     Recv cipher salt: f5f12f8cbf1bd5413f300e29c5573d864b25816aeaf1f4a2b9e6cb261f3e9bd0
